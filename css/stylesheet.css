@@ -1,0 +1,216 @@
+body
+{
+    margin: 0px;
+    height: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header
+{
+    display: flex;
+    background-color: rgb(42, 46, 94);
+    width: 100%;
+    height: 100px;
+}
+
+#logo
+{
+    width: 70%;
+}
+
+#foto1
+{
+    width: 80px;
+    height: 80px;
+    margin-left: 5%;
+    margin: 1%;
+}
+
+#foto2
+{
+    width: 80px;
+    height: 80px;
+    margin-left: 5%;
+    margin: 1%;
+}
+
+nav
+{
+    color:white;
+}
+
+nav ul
+{
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li
+{
+    display: inline;
+    padding: 10%;
+}
+
+nav ul li a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+section
+{
+    display: flex;
+}
+
+#fotominha
+{
+    width:50%;
+    height:75%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 12.5%;
+    margin-bottom: 12.5%;
+    border-radius: 5px;
+}
+
+#divesquerdo
+{
+    width:40%;
+    height: auto;
+}
+
+#divdireito
+{
+    margin-top: 4%;
+    width: 60%;
+    height: auto;
+}
+
+.subtitle-size
+{
+    font-size: 30px;
+}
+
+.title-size
+{
+    font-size: 50px;
+    margin: 0px;
+}
+
+.pregress
+{
+    margin-right: 10%;
+}
+
+.subtitle-contato
+{
+    font-size: 20px;
+}
+
+.taminput
+{
+    width: 900px;
+    height: 40px;
+    border-radius: 5px;
+    border-color: rgb(211, 208, 215);
+    border-style:ridge;
+}
+
+#botaocontato
+{
+    width: 15%;
+    height:40px;
+    background-color: rgb(42, 46, 94);
+    color: white;
+    margin-left: 85%;
+    border-radius: 5px;
+}
+
+#titulocontato
+{
+    margin: 0px;
+}
+
+#formcontato
+{
+    margin: auto;
+    padding-top: 3%;
+}
+
+#subtitlecontato
+{
+    font-size: 20px;
+}
+
+#conteudo
+{
+    display:flex;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+#caixa
+{
+    width: 250px;
+    height: auto;
+    margin: 30px;
+    margin-left:45px;
+    background-color:rgb(255, 255, 255);
+    border-radius:5px;
+    border-width: 5px;
+    border-color: black;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+#divimg
+{
+    height: 100px;
+    text-align: center;
+    margin:1px;
+    padding:1px;
+}
+
+.imagemsearch
+{
+    width: 99px;
+    height: 99px;
+}
+
+#textodiv
+{
+    height:105px;
+    padding: 0px;
+    margin-top: 20px;
+    color: black;
+    text-align: justify;
+}
+
+#saibamais
+{
+    background-color: black;
+    width: 100%;
+    padding: 0px;
+    height: 35px;
+    color:white;
+}
+
+#titulodivf
+{
+    margin-top: 10px;
+    padding:0px;
+    margin-bottom: 1px;
+    font-size: 15px;
+}
+
+.saibaespaco
+{
+    margin-left: 30%;
+}
+
+#pdivf
+{
+    margin: 0px;
+    padding:0px;
+    margin-bottom: 1px;
+}
+
